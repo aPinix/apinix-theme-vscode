@@ -2,7 +2,7 @@
   "name": "apinix-theme",
   "displayName": "aPinix Theme",
   "description": "A VSCode Dark Theme based on Monokai theme. Ease on your eyes. Code till you fall asleep.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "aPinix",
 	"author": {
     "name": "André Pinto",
