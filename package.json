@@ -1,0 +1,40 @@
+{
+  "name": "apinix-theme",
+  "displayName": "aPinix Theme",
+  "description": "A VSCode Dark Theme based on Monokai theme. Ease on your eyes. Code till you fall asleep.",
+  "version": "0.0.1",
+  "publisher": "aPinix",
+	"author": {
+    "name": "André Pinto",
+    "email": "a.pinix@gmail.com",
+    "url": "https://twitter.com/apinix"
+  },
+	"icon": "images/apinix-theme-icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aPinix/apinix-theme-vscode"
+	},
+	"bugs": "https://github.com/aPinix/apinix-theme-vscode/issues",
+	"license": "MIT",
+	"keywords": [
+		"indent jump",
+		"vscode",
+		"extension",
+		"indentation"
+	],
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "aPinix Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aPinix Theme-color-theme.json"
+      }
+    ]
+  }
+}
