@@ -36,5 +36,9 @@
         "path": "./themes/aPinix Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "scripts": {
+		"vscode:package": "vsce package",
+		"vscode:publish": "vsce publish"
+	}
 }
