@@ -1,16 +1,16 @@
 # aPinix Theme
 
-<!-- <p>
-  <a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.apinix-theme-vscode">
-    <img alt="aPinix Theme in the VS Code Marketplace" src="https://vsmarketplacebadge.apphb.com/version-short/softwaredotcom.apinix-theme-vscode.svg?style=flat-square&color=00b4ee&label=marketplace">
+<p>
+  <a href="https://marketplace.visualstudio.com/items?itemName=aPinix.apinix-theme">
+    <img alt="aPinix Theme in the VS Code Marketplace" src="https://vsmarketplacebadge.apphb.com/version-short/apinix.apinix-theme.svg?style=flat-square&color=00b4ee&label=marketplace">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.apinix-theme-vscode">
-    <img alt="aPinix Theme Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/softwaredotcom.apinix-theme-vscode.svg?style=flat-square&color=00b4ee">
+  <a href="https://marketplace.visualstudio.com/items?itemName=aPinix.apinix-theme">
+    <img alt="aPinix Theme Downloads" src="https://vsmarketplacebadge.apphb.com/downloads-short/apinix.apinix-theme.svg?style=flat-square&color=00b4ee&label=marketplace">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.apinix-theme-vscode">
-    <img alt="aPinix Theme Rating" src="https://vsmarketplacebadge.apphb.com/rating-short/softwaredotcom.apinix-theme-vscode.svg?style=flat-square&color=00b4ee">
-  </a>
-</p> -->
+  <!-- <a href="https://marketplace.visualstudio.com/items?itemName=aPinix.apinix-theme">
+    <img alt="aPinix Theme Rating" src="https://vsmarketplacebadge.apphb.com/rating-star/apinix.apinix-theme.svg?style=flat-square&color=00b4ee&label=marketplace">
+  </a> -->
+</p>
 
 <p><img src="images/apinix-theme-icon.png" width="100px" alt="aPinix Theme Vscode"></p>
 
